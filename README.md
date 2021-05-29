@@ -21,4 +21,3 @@ googleauth.get.totp('wa55Ad5Io5xj32ao')
 googleauth.get.hotp('1xX1UuJ5iKsJbOH2')
 >>> 452806
 ```
-### Generate a 42002 seed
